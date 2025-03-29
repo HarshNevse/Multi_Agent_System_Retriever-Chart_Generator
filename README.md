@@ -96,6 +96,10 @@ pip install flask haystack-ai langchain langchain-core langgraph ollama matplotl
 
 ---
 
+## Video Demo
+
+https://github.com/user-attachments/assets/33aaee96-1c1b-43c7-bf80-70b1ae3d2240
+
 ## Future Enhancements
 
 - Add support for more file formats.
